@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as e,d as o}from"./app.368c58e2.js";const h=JSON.parse('{"title":"\u9AD8\u7EA7 position:fixed","description":"","frontmatter":{},"headers":[],"relativePath":"guide/position-fixed.md"}'),t={name:"guide/position-fixed.md"},n=o("",4),i=[n];function p(c,d,l,r,_,f){return a(),e("div",null,i)}const u=s(t,[["render",p]]);export{h as __pageData,u as default};
